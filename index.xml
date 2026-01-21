@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rolldorado Casino: La Joya Oculta de la Escena Gamer Alemana on rolldoradoapp</title>
-    <link>http://localhost:1313/</link>
+    <link>https://rolldoradoapp.es/</link>
     <description>Recent content in Rolldorado Casino: La Joya Oculta de la Escena Gamer Alemana on rolldoradoapp</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rolldoradoapp.es/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
